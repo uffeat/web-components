@@ -43,7 +43,6 @@ class Dot extends Component {
     this._dotElement.style.width = size
     this._dotElement.style.height = size
   }
-
 }
 
 const componentTag = `${settings.prefix}-dot`
